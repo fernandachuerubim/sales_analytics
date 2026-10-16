@@ -109,6 +109,9 @@ Gráficos interativos gerados com Plotly:
 
 O dataset principal contém 150.000 registros de vendas de e-commerce com informações de pedidos, clientes, pagamentos, produtos, marketing e lucro.
 
-## 📄 Licença
+## 📋 Link do Kaggle
 
-Este projeto está sob a licença MIT.
+https://www.kaggle.com/datasets/datascikhan/e-commerce-sales-and-customer-analytics
+
+
+
