@@ -1,6 +1,6 @@
 # Sales Analytics
 
-Projeto de análise de vendas de e-commerce com previsão de lucro utilizando Machine Learning (Regressão Linear) e dashboards estatísticos construídos com Streamlit.
+Projeto de análise de vendas de e-commerce com previsão de lucro utilizando Machine Learning (Regressão Linear) e dashboards estatísticos construídos com Streamlit pelo link https://fc-salesanalytics.streamlit.app/.
 
 ## 📋 Sobre o projeto
 
